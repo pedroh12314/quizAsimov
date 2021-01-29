@@ -1,0 +1,46 @@
+{
+  "bg": "https://asimovjr.com.br/wp-content/uploads/2020/01/IMG_20191214_151505-1-scaled.jpeg",
+  "title": "1º Quiz: The Histories",
+  "description": "Este é um quiz para membros da empresa",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
+      "title": "Quando a Asimov Jr. foi fundada?",
+      "description": "Pergunta fácil em!",
+      "answer": 2,
+      "alternatives": [
+        "1980",
+        "2019",
+        "2018",
+        "2020",
+        "2017"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
+      "title": "Quantos projetos foram fechados em 2020?",
+      "description": "E agora? Você sabe?",
+      "answer": 0,
+      "alternatives": [
+        "18",
+        "16",
+        "14",
+        "23",
+        "37"
+      ]
+    }
+  ],
+  "external": [
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#222222",
+      "secondary": "#1130ba",
+      "mainBg": "#040a24",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
