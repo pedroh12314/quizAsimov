@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 function Logo({ className }) {
   return (
-    <img className={className} viewBox="0 0 135 67" fill="none" src="https://asimovjr.com.br/wp-content/themes/byron/assets/img/asimov-header.png"></img>
+    <img className={className} viewBox="0 0 135 67" fill="none" width="150px" src="https://asimovjr.com.br/wp-content/themes/byron/assets/img/asimov-header.png"></img>
   );
 }
 
